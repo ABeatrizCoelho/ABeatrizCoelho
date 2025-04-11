@@ -47,5 +47,6 @@ Oi! Eu sou a Beatriz 💻
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzIwYjY2YTU4M2IxMDFlZDM4OWY0MzMxZmQzZDAzMWM1Yzk2Y2Q5OCZjdD1n/g4bZl5o6Dht3i/giphy.gif" width="200" />
+  <img src="![image](https://github.com/user-attachments/assets/361ac922-eb22-4369-9b99-141acda17d53)
+" width="200" />
 </p>
