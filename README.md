@@ -35,8 +35,6 @@ Oi! Eu sou a Beatriz 💻
   </tr>
 </table>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ABeatrizCoelho&theme=vue&date_format=j%20M%5B%20Y%5D)
-
 ---
 
 ### 📬 Me encontre por aí:
