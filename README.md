@@ -6,10 +6,11 @@
       <img src="https://github-readme-stats.vercel.app/api?username=ABeatrizCoelho&theme=synthwave&show_icons=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABeatrizCoelho&hide_progress=false&theme=synthwave&card_width=495" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABeatrizCoelho&layout=compact&theme=synthwave&hide_progress=false" />
     </td>
   </tr>
 </table>
+
 
 
 
