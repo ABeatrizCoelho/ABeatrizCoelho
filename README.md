@@ -3,20 +3,22 @@
 ### 🌸 Sobre mim
 
 Oi! Eu sou a Beatriz 💻  
-🎓 Estudante de Sistemas para Internet  na **UTFPR**  e Análise e Desenvolvimento de Sistemas na **Wyden**
-☕ Apaixonada por tecnologia, café com leite e jogos 
-🌱 Atualmente aprendendo mais sobre: TypeScript, Spring Boot e MySQL  
-🐱 Mãe de dois gatos
+🎓 Estudante de **Sistemas para Internet** na UTFPR e **Análise e Desenvolvimento de Sistemas** na Wyden  
+☕ Apaixonada por tecnologia e música  
+🌱 Atualmente aprendendo mais sobre: **TypeScript** e **Bootstrap**  
+🐱 Mãe orgulhosa de dois gatinhos 💖
 
 ---
 
-### 💖 Tecnologias:
+### 🎀 Tecnologias que uso e gosto:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F3D1DC?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-B4E4D9?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-C1CEFE?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FBD6D2?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-DCC6E0?style=for-the-badge&logo=typescript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-D6C8FF?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-F7C8E0?style=for-the-badge&logo=angular&logoColor=white)
 
 ---
 
@@ -25,25 +27,25 @@ Oi! Eu sou a Beatriz 💻
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ABeatrizCoelho&theme=synthwave&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ABeatrizCoelho&theme=vue&show_icons=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABeatrizCoelho&layout=compact&theme=synthwave&hide_progress=false" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABeatrizCoelho&layout=compact&theme=vue&hide_progress=false" />
     </td>
   </tr>
 </table>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ABeatrizCoelho&theme=synthwave&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=ABeatrizCoelho&theme=vue&date_format=j%20M%5B%20Y%5D)
 
 ---
 
 ### 📬 Me encontre por aí:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BeatrizCoelho-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com](https://www.linkedin.com/in/beatriz-araujo-262b87211/))  
-[![Gmail](https://img.shields.io/badge/Email-beatriz@email.com-red?style=for-the-badge&logo=gmail)](mailto:beatrcoelho@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BeatrizCoelho-87CEFA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-araujo-262b87211/)  
+[![Gmail](https://img.shields.io/badge/Email-beatrcoelho@gmail.com-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatrcoelho@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplc2fcLi3i/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzIwYjY2YTU4M2IxMDFlZDM4OWY0MzMxZmQzZDAzMWM1Yzk2Y2Q5OCZjdD1n/g4bZl5o6Dht3i/giphy.gif" width="200" />
 </p>
