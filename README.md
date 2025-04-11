@@ -1,7 +1,12 @@
 ## Oi! 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABeatrizCoelho&theme=synthwavek&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABeatrizCoelho&hide_progress=false)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ABeatrizCoelho&theme=synthwavek&show_icons=true" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABeatrizCoelho&hide_progress=false&theme=synthwavek&card_width=495" /></td>
+  </tr>
+</table>
+
 
 <!--
 **ABeatrizCoelho/ABeatrizCoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
