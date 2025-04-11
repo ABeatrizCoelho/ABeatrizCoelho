@@ -27,10 +27,10 @@ Oi! Eu sou a Beatriz 💻
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ABeatrizCoelho&theme=vue&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ABeatrizCoelho&theme=calm&show_icons=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABeatrizCoelho&layout=compact&theme=vue&hide_progress=false" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABeatrizCoelho&layout=compact&theme=calm&hide_progress=false" />
     </td>
   </tr>
 </table>
