@@ -47,6 +47,6 @@ Oi! Eu sou a Beatriz 💻
 ---
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/361ac922-eb22-4369-9b99-141acda17d53)
+  <img src="![image](https://github.com/user-attachments/assets/ea5157b9-f899-4d3d-ab4b-e374ba446cf1)
 " width="200" />
 </p>
