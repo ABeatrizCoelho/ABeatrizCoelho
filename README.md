@@ -6,7 +6,7 @@ Oi! Eu sou a Beatriz 💻
 🎓 Estudante de **Sistemas para Internet** na UTFPR e **Análise e Desenvolvimento de Sistemas** na Wyden  
 ☕ Apaixonada por tecnologia e música  
 🌱 Atualmente aprendendo mais sobre: **TypeScript** e **Bootstrap**  
-🐱 Mãe orgulhosa de dois gatinhos 💖
+🐱 Dois gatinhos 💖
 
 ---
 
