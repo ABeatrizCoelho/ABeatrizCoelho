@@ -2,10 +2,15 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ABeatrizCoelho&theme=synthwavek&show_icons=true" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABeatrizCoelho&hide_progress=false&theme=synthwavek&card_width=495" /></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ABeatrizCoelho&theme=synthwave&show_icons=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABeatrizCoelho&hide_progress=false&theme=synthwave&card_width=495" />
+    </td>
   </tr>
 </table>
+
 
 
 <!--
