@@ -19,7 +19,7 @@ java  spring-boot  linux  redes  lazarus  firebird
 
 ### 💼 Infraestrutura | Backend | Redes | Linux
 
-<a href="https://www.linkedin.com/in/beatriz-araujo-262b87211/" target="_blank">
+<a href="https://www.linkedin.com/in/ana-beatriz-coelho-262b87211/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Beatriz%20Coelho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
