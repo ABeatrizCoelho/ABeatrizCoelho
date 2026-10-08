@@ -42,19 +42,6 @@ java  spring-boot  linux  redes  lazarus  firebird
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ABeatrizCoelho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ABeatrizCoelho&layout=compact&langs_count=8&theme=tokyonight"/>
-
-<img width="830em" src="https://streak-stats.demolab.com?user=ABeatrizCoelho&theme=tokyonight"/>
-
-</div>
-
----
 
 ### Atualmente estudando
 
